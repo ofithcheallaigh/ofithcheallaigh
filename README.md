@@ -8,7 +8,7 @@
 - 📫 How to reach me: here
 - ⚡ Fun fact: I am not impressed by billionaires and their space rockets
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Programming Languages
