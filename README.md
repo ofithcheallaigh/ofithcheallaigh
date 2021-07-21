@@ -10,7 +10,9 @@
 #### You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/seán-ó-fithcheallaigh-079)](https:/www.linkedin.com/in/seán-ó-fithcheallaigh-079/)
+<!--
 [![GitHub followers](https://img.shields.io/github/followers/ofithcheallaigh?style=social)](https://github.com/ofithcheallaigh/?tab=follow)
+-->
 <!-- The code below contains the ?tab=follow at the end, to show how many followers you have
 [![GitHub followers](https://img.shields.io/github/followers/ofithcheallaigh?label=Follow&style=social)](https://github.com/ofithcheallaigh/?tab=follow)
 -->
