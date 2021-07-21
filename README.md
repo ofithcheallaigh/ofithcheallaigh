@@ -8,7 +8,8 @@
 - 📫 How to reach me: here
 - ⚡ Fun fact: I am not impressed by billionaires and their space rockets
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sofithcheallaigh&layout=compact">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
