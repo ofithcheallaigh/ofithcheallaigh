@@ -10,6 +10,9 @@
 #### You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/seán-ó-fithcheallaigh-079)](https:/www.linkedin.com/in/seán-ó-fithcheallaigh-079/)
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/ofithcheallaigh?label=Follow&style=social)](https://github.com/ofithcheallaigh/?tab=follow)
+-->
 [![GitHub followers](https://img.shields.io/github/followers/ofithcheallaigh?label=Follow&style=social)](https://github.com/ofithcheallaigh/?tab=follow)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
