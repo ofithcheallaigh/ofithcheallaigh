@@ -17,6 +17,7 @@
 <!-- The code below contains the ?tab=follow at the end, to show how many followers you have
 [![GitHub followers](https://img.shields.io/github/followers/ofithcheallaigh?label=Follow&style=social)](https://github.com/ofithcheallaigh/?tab=follow)
 -->
+<a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
