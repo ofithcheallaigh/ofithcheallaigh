@@ -8,6 +8,8 @@
 - 📫 How to reach me: here
 - ⚡ Fun fact: I am not impressed by billionaires and their space rockets
 
+<a href="mailto:sofithcheallaigh@gmail.com?subject=Hello%20Seán%20Ó"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofithcheallaigh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
