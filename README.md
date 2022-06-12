@@ -19,6 +19,10 @@
 -->
 <a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a>
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
 
