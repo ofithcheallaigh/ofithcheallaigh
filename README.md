@@ -22,6 +22,11 @@
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+🏆  6,880 Karma Points           
+🌸  Completed 6 tasks today           
+🗓  Completed 6 tasks this week           
+✅  Completed 869 tasks so far           
+⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
