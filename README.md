@@ -14,15 +14,6 @@
 
 <a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a>
 
-# Todoist Stats
-
-<!-- TODO-IST:START 
-🏆  7,493 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 0 tasks this week           
-✅  Completed 913 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
 -->
