@@ -25,6 +25,7 @@ As well as working as an electronics hardware engineer, I am also a student part
 # Todoist Stats
 
 <!-- TODO-IST:START -->
+
 <!-- TODO-IST:END -->
 
 ## Programming Languages
