@@ -1,5 +1,6 @@
-### Hi there, I am Seán. I am an electronics engineer interested in a wide range of technologies.
-#### Currently, as well as working as an electronics hardware engineer, I am also a student part-way through as MSc in Artificial Intelligence.
+### Welome!
+I'm Seán. I am an electronics engineer interested in a wide range of technologies.
+As well as working as an electronics hardware engineer, I am also a student part-way through as MSc in Artificial Intelligence.
 
 - 🔭 I’m currently working on hardware design and testing
 - 🌱 I’m currently learning machine learning and EDA in python and R
