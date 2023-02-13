@@ -14,6 +14,7 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 [![python](https://img.shields.io/badge/python-★★★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-★☆☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
 
+</details>
 
 
 #### You can contact me via:
