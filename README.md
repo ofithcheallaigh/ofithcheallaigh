@@ -2,10 +2,12 @@
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
-### Technologies I work with:
+### Technologies and tools I work with:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 
 #### You can contact me via:
