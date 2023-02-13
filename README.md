@@ -1,13 +1,7 @@
 ### Welome!
-I'm Seán. I am an electronics engineer interested in a wide range of technologies.
-As well as working as an electronics hardware engineer, I am also a student part-way through as MSc in Artificial Intelligence.
+I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
+This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
-- 🔭 I’m currently working on hardware design and testing
-- 🌱 I’m currently learning machine learning and EDA in python and R
-- 👯 I’m looking to collaborate on any open source projects
-- 🤔 I’m looking for help with developing ML models
-- 💬 Ask me about hardware/PCB design and ML
-- ⚡ Fun fact: I am not impressed by billionaires and their space rockets
 
 #### You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com) 
