@@ -2,10 +2,15 @@
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
+### Technologies I work with:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 #### You can contact me via:
-[![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/seán-ó-fithcheallaigh-079)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
+[![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
 
 <a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a>
 
