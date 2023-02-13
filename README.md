@@ -8,6 +8,12 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<details>
+  <summary><b>Skills</b></summary>
+
+[![python](https://img.shields.io/badge/python-★★★☆☆-lightgrey?labelColor=3776AB&logo=Python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-★☆☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
+
 
 
 #### You can contact me via:
