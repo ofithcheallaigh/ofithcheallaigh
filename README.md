@@ -35,7 +35,8 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/mathworks.png' width='35'/>
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/ofithcheallaigh/count.svg" />
+<!--<img src="https://profile-counter.glitch.me/ofithcheallaigh/count.svg" />-->
+![Visitor Count](https://profile-counter.glitch.me/ofithcheallaigh/count.svg)
 
 <!--
 👋
