@@ -1,10 +1,16 @@
-<h1 aligh="center">Hello, I'm Seán Ó Fithcheallaigh</h1>
+<h1 align="center">Hello, I'm Seán Ó Fithcheallaigh</h1>
 
 ---
 <h3 align="center">
   Exploring Machine Learning and Data Science | Electronics Engineer </br>
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
+
+<p align="center">
+  [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
+</p>
+
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
@@ -28,7 +34,7 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
 
-<a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a>
+<!-- <a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a> ..>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
