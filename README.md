@@ -18,7 +18,7 @@
 ### Technologies and tools I work with:
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.python.org/)
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]((https://git-scm.com)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/)
 [![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)](https://www.atlassian.com/software/jira)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
