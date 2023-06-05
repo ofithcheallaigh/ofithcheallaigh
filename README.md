@@ -1,4 +1,10 @@
 ### Welome!
+
+---
+<h3 align="center">
+  Exploring Machine Learning and Data Science | Electronics Engineer </br>
+  Experienced in Programming, Automation, Research, Data Analysis </br>
+</h3>
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
