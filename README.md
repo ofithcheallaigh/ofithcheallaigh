@@ -2,19 +2,13 @@
 
 ---
 <h3 align="center">
-  Exploring Machine Learning and Data Science | Electronics Engineer </br>
+  Exploring Machine Learning and Data Science | Electronics Engineer | MSc Student in AI</br>
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
 
 <h3>Ways to Connect with Me</h3>
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)      
 [![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
-
-
-
-<p align=center>
-  
-</p>
 
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
@@ -26,6 +20,7 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 
+<!--
 <details>
   <summary><b>Skills</b></summary>
   
@@ -33,7 +28,7 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 [![R](https://img.shields.io/badge/R-★☆☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
   
 </details>
-
+-->
 
 #### You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
