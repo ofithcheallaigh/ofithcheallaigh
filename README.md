@@ -6,10 +6,6 @@
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
 
-<h3>Ways to Connect with Me</h3>
-[![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)      
-[![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
-
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
@@ -32,13 +28,13 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 [![R](https://img.shields.io/badge/R-★☆☆☆☆-lightgrey?labelColor=276DC3&logo=R&style=for-the-badge&logoColor=white)](https://www.r-project.org/)
   
 </details>
--->
+
 
 #### You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
 
-<!-- <a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a> ..>
+<a href="https://github.com/ofithcheallaigh" target="_blank"><img src="https://github.com/ofithcheallaigh/ofithcheallaigh/blob/main/images/git.png" alt="GitHub" width="30"></a> ..>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofithcheallaigh)](https://github.com/anuraghazra/github-readme-stats)
