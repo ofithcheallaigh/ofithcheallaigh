@@ -9,6 +9,7 @@
 ## I am:
 - An electronics engineer with experience in PCB design, verification and validation testing, PCB design, Scrum
 - A MSc student in Artificial Intelligence
+  - Studied Machine Learning, Deep Learning  , Statistical Analysis 
 - Experienced in programming for machine learning, data analysis, automation and algorithm development
 
 #### You can contact me via:
