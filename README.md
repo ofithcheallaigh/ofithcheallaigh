@@ -13,6 +13,10 @@
 I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
 This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
 
+#### You can contact me via:
+[![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Seán%20Ó%20Fithcheallaigh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/se%C3%A1n-%C3%B3-fithcheallaigh-079/)
+
 ### Technologies and tools I work with:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
