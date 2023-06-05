@@ -5,8 +5,11 @@
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
 
-I'm Seán. I am an electronics hardware design engineer, with an interested in a wide range of technologies, specifically software related tech.
-This interest has led me to working my way through an MSc in Artificial Intelligence. Currently I am working my research project.
+---
+## I am:
+- An electronics engineer with experience in PCB design, verification and validation testing, PCB design, Scrum
+- A MSc student in Artificial Intelligence
+- Experienced in programming for machine learning, data analysis, automation and algorithm development
 
 #### You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sofithcheallaigh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofithcheallaigh@gmail.com)](mailto:sofithcheallaigh@gmail.com)
@@ -18,6 +21,9 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
 <!--
 <details>
@@ -50,6 +56,7 @@ This interest has led me to working my way through an MSc in Artificial Intellig
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  
 <!-- </p> -->
 
 ### Visitor count
