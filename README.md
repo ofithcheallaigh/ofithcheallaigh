@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Seán Ó Fithcheallaigh</h1>
 
 <h3 align="center">
-  Exploring Machine Learning and Data Science | Electronics Engineer | MSc Student in AI</br>
+  Exploring Machine Learning and Data Science | Electronics Engineer | PhD researcher in AI</br>
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
 
