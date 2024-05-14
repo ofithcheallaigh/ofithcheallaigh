@@ -1,9 +1,19 @@
+<!--<img src="https://profile-counter.glitch.me/ofithcheallaigh/count.svg" />-->
+<div align="center">
+  <img src="https://github.com/ofithcheallaigh/ofithcheallaigh/assets/11619696/938a1ccc-e936-44e3-b098-3dd4e86326d0">
+</div>
+<!--![SÓF_Logo](https://github.com/ofithcheallaigh/ofithcheallaigh/assets/11619696/938a1ccc-e936-44e3-b098-3dd4e86326d0)-->
+
+
 <h1 align="center">Hello, I'm Seán Ó Fithcheallaigh</h1>
 
 <h3 align="center">
   Exploring Machine Learning and Data Science | Electronics Engineer | PhD researcher in AI</br>
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
+
+
+
 
 ---
 ## I am:
