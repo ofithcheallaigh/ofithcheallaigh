@@ -8,7 +8,7 @@
 <h1 align="center">Hello, I'm Seán Ó Fithcheallaigh</h1>
 
 <h3 align="center">
-  Exploring Machine Learning and Data Science | Electronics Engineer | PhD researcher in AI</br>
+  Exploring Machine Learning and Data Science | PhD researcher in AI | Systems and Software Engineer</br>
   Experienced in Programming, Automation, Research, Data Analysis </br>
 </h3>
 
@@ -17,9 +17,16 @@
 
 ---
 ## I am:
-- An electronics engineer with experience in PCB design, verification and validation testing, PCB design, Scrum
-- A MSc student in Artificial Intelligence, and now studying for a PhD in AI.
-  - Studied Machine Learning, Deep Learning  , Statistical Analysis 
+- A PhD Researcher in the field of Artificial Inteigence and Machine Learning.
+  - My research in is the area of Federated Learning (FL). The repor for this work is [here](https://github.com/ofithcheallaigh/phd). The repo is private, but please get in contact if you are interested in this work.
+<!--
+- An electronics engineer with experience in PCB design, verification and validation testing, PCB design, Scrum.
+-->
+- A systems and software engineer working in building ML pipelines and tools
+  <!--
+- A PhD researcher in AI, having completed my MSc in AI in 2023.
+  - Studied Machine Learning, Deep Learning  , Statistical Analysis
+  -->
 - Experienced in programming for machine learning, data analysis, automation and algorithm development
 
 #### You can contact me via:
