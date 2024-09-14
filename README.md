@@ -18,7 +18,7 @@
 ---
 ## I am:
 - A PhD Researcher in the field of Artificial Inteigence and Machine Learning.
-  - My research in is the area of Federated Learning (FL). The repor for this work is [here](https://github.com/ofithcheallaigh/phd). The repo is private, but please get in contact if you are interested in this work.
+  - My research in is the area of Federated Learning (FL). The repo for this work is [here](https://github.com/ofithcheallaigh/phd). The repo is private, but please get in contact if you are interested in this work.
 <!--
 - An electronics engineer with experience in PCB design, verification and validation testing, PCB design, Scrum.
 -->
