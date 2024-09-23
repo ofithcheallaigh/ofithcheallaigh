@@ -15,7 +15,7 @@
 
 </div>
 
-<h3 align="center">PhD researcher in AI | Systems and Software Engineer | ML/AI Consultant
+<h3 align="center">PhD researcher in AI | Software Systems Engineer | ML/AI Consultant
 <br><br>
 <!-- Experienced in Programming, Automation, Research, Data Analysis | Exploring Machine Learning and Data Science -->
 
