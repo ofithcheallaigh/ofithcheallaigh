@@ -5,8 +5,10 @@
 <!--![SÓF_Logo](https://github.com/ofithcheallaigh/ofithcheallaigh/assets/11619696/938a1ccc-e936-44e3-b098-3dd4e86326d0)-->
 
 
-<h1 align="center">Hello, I'm Seán Ó Fithcheallaigh<br><br><br>
-Please keep in mind I am tidying and updating this site</h1>
+<h1 align="center">Hello, I'm Seán Ó Fithcheallaigh</h1>
+<div align="center" style="background-color: #f0f0f0; padding: 5px; margin: 10px auto; width: fit-content; border-radius: 5px; font-size: 24px;">
+    ⚠️ Please keep in mind I am tidying and updating this site
+</div>
 
 <h3 align="center">
 
